@@ -7,7 +7,7 @@
 | **Course** | COSC 64173 – Mobile Computing |
 | **Assignment** | Assignment 01 – Multi-screen React Native app with Expo Router |
 | **Institution** | Department of Statistics & Computer Science, University of Kelaniya |
-| **🎥 Demonstration video** | **[Watch the demo on YouTube / Google Drive](<PASTE-YOUR-PUBLIC-VIDEO-LINK-HERE>)** |
+| **🎥 Demonstration video** | **[Watch the demo on YouTube / Google Drive](<https://youtu.be/jPQAZbnLOLg>)** |
 | **📦 Repository** | https://github.com/jananiayeshika/mobile-computing-assignment1 |
 
 > **Lanka Trails** is a cross-platform mobile app (Android & iOS) built with **React Native**, **Expo SDK 58** and **Expo Router**, written in **JavaScript**. It helps travellers discover, shortlist and plan visits to 14 of Sri Lanka's best-known destinations: Sigiriya, the Temple of the Tooth, Galle Fort, Yala, Ella's Nine Arch Bridge and more.
